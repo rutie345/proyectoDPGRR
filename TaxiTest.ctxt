@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=TaxiTest
+comment0.text=\r\n\ The\ test\ class\ TaxiTest.\r\n\r\n\ @author\ \ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ 2016.02.29\r\n\ @version\ 2023.10.10\ DP\ classes\ \r\n
+comment1.params=
+comment1.target=TaxiTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ TaxiTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Create\ a\ taxi.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testCreation()
+comment4.text=\r\n\ Test\ creation\ and\ the\ initial\ state\ of\ a\ taxi.\r\n
+comment5.params=
+comment5.target=void\ testPickup()
+comment5.text=\r\n\ Test\ that\ a\ taxi\ is\ no\ longer\ free\ after\ it\ has\r\n\ picked\ up\ a\ passenger.\r\n
+comment6.params=
+comment6.target=void\ testOffload()
+comment6.text=\r\n\ Test\ that\ a\ taxi\ becomes\ free\ again\ after\ offloading\r\n\ a\ passenger.\r\n
+comment7.params=
+comment7.target=void\ testDelivery()
+comment7.text=\r\n\ Test\ that\ a\ taxi\ picks\ up\ and\ delivers\ a\ passenger\ within\r\n\ a\ reasonable\ number\ of\ steps.\r\n
+numComments=8

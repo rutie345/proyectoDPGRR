@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparadorNombrePassenger
+comment0.text=\r\n\ Compare\ passengers\ by\ name\ in\ ascending\ order.\r\n\ \r\n\ @author\ DP\ Clasess\r\n\ @version\ 2023\r\n
+comment1.params=p1\ p2
+comment1.target=int\ compare(Passenger,\ Passenger)
+numComments=2

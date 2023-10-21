@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PassengerTest
+comment0.text=\r\n\ The\ test\ class\ PassengerTest.\r\n\r\n\ @author\ \ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ 2016.02.29\r\n\ @version\ 2023.10.10\ DP\ classes\ \r\n
+comment1.params=
+comment1.target=PassengerTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ PassengerTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testCreation()
+comment4.text=\r\n\ Test\ basic\ creation\ of\ a\ passenger.\r\n\ Ensure\ that\ the\ pickup\ and\ destination\ locations\r\n\ have\ been\ set.\r\n
+comment5.params=
+comment5.target=void\ testGetTaxiName()
+comment5.text=\r\n\ Test\ of\ the\ getTaxiName\ method.\r\n\ Ensure\ that\ this\ method\ gets\ and\ returns\ the\ name\ of\ the\ taxi\ correctly.\r\n
+comment6.params=
+comment6.target=void\ testGetPickupLocation()
+comment6.text=\r\n\ Test\ of\ the\ getPickupLocation\ method.\r\n\ Ensure\ that\ this\ method\ gets\ and\ returns\ the\ pickup\ location\ correctly.\r\n
+numComments=7

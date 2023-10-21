@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TaxiDemo
+comment0.text=\r\n\ Provide\ a\ simple\ demonstration\ of\ running\ a\ stage-one\r\n\ scenario.\ Three\ simulaions\ are\ create\:\ \r\n\r\n\ DemoOnePassanger\:\ A\ single\ passenger\ and\ taxi\ are\ created,\ and\ a\ pickup\r\n\ requested.\ As\ the\ simulation\ is\ run,\ the\ passenger\r\n\ should\ be\ picked\ up\ and\ then\ taken\ to\ their\ destination.\r\n\ \r\n\ DemoInicial\:\ Two\ passengers\ and\ three\ taxi\ sare\ created,\ two\ pickups\r\n\ requested.\ As\ the\ simulation\ is\ run,\ the\ passengers\r\n\ should\ be\ picked\ up\ and\ then\ taken\ to\ their\ destination.\r\n\r\n\ DemoAvanzada\:\ Some\ passengers\ and\ taxis\ are\ created,\ so\ some\ pickup\r\n\ are\ requested.\ As\ the\ simulation\ is\ run,\ all\ the\ passengers\r\n\ should\ be\ picked\ up\ and\ then\ taken\ to\ their\ destination.\r\n\ \r\n\ @author\ DP\ Clasess\r\n\ @version\ 2023\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2
